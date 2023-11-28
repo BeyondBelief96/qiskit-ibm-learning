@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Qiskit project-specific files
+*.qiskitrc
+*.qiskitconfig
+
+# Logs and runtime data
+logs/
+*.log
+
+# Output of Qiskit experiments
+out/
+
+# Ignore database and key files
+*.db
+*.key
+
+# Ignore configuration file
+config.json
+
+# Misc Files
+Lib/
+Scripts/
+share/
